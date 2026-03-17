@@ -1,10 +1,10 @@
 # Airbnb_Performance_Dashboard
 
 🌍 Global Airbnb Performance Dashboard
-Airbnb analytics dashboard showcasing trends, performance metrics, and customer behavior using Power BI.
+- Airbnb analytics dashboard showcasing trends, performance metrics, and customer behavior using Power BI.
 
 📖 Project Overview
-This project presents an interactive Power BI dashboard built to analyze global Airbnb data and uncover meaningful insights related to revenue, customer behavior, and listing performance.
+- This project presents an interactive Power BI dashboard built to analyze global Airbnb data and uncover meaningful insights related to revenue, customer behavior, and listing performance.
 The dashboard enables users to explore patterns, compare regions, and make data-driven decisions through visually rich and dynamic reports.
 
 🎯 Objectives
