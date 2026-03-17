@@ -61,3 +61,7 @@ The dataset was cleaned and transformed using Power Query in Power BI to handle 
 https://github.com/ShindeePrathamesh/Airbnb_Performance_Dashboard/blob/main/Images/page_1.png
 https://github.com/ShindeePrathamesh/Airbnb_Performance_Dashboard/blob/main/Images/page_2.png
 https://github.com/ShindeePrathamesh/Airbnb_Performance_Dashboard/blob/main/Images/page_3.png
+
+If you have any feedback or suggestions, feel free to connect!
+
+⭐ If you found this project useful, consider giving it a star!
