@@ -56,3 +56,5 @@ The dataset used in this project is sourced from Maven Analytics, a well-known p
 - 👤 Host and reviewer data
 
 The dataset was cleaned and transformed using Power Query in Power BI to handle missing values and ensure data consistency before analysis.
+
+📸 Final Dashboard Snapshot
